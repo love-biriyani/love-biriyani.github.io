@@ -5,7 +5,7 @@ include_in_menu: true
 permalink: /about/
 crumbtitle: About
 ---
-
+<!-- 
 ## Curriculum Vitae
 
 My [CV](https://github.com/silvae86/cv/raw/master/cv.pdf) is [open-source](https://github.com/silvae86/cv/), like my work and life philosophy.
@@ -47,7 +47,7 @@ I have a YouTube channel covering car mechanics and repairs. I called it Toyota 
 
 ## Disclaimer
 
-This blog contains my personal notes about programming, sysadmin, and other stuff. All materials and opinions are my own and do not reflect any point of view of my employer.
+This blog contains my personal notes about programming, sysadmin, and other stuff. All materials and opinions are my own and do not reflect any point of view of my employer. -->
 
 <!--
 
